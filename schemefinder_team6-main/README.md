@@ -95,9 +95,9 @@ Security measures should be implemented and tested before the system is used wit
 ## 👥 Team Members
 
 - Duggudurthi Sai Rajani
-- Samar Raj
-- Bogolu Thulasi Devi
-- Karri Rupesh Sairam Reddy
+- Chintakula Mahitha Sri
+- Pedapudi Likhitha
+- Upparapalli harini
 
 ## 📌 Project Status
 
